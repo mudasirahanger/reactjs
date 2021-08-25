@@ -4,10 +4,15 @@ import Menu from "./components/Menu";
 
 const App = () =>  {
   return (
-    <div className="container">
-      <h1>Hello React World !</h1>
-      <Menu></Menu>
-    </div>
+ 
+     
+      <header className="container">
+           <div className="container text-center mt-3">
+             <h1>Hello React World !</h1>
+             </div>
+                   <Menu></Menu>
+      </header>
+    
   );
 }
 
