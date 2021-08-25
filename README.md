@@ -1,6 +1,11 @@
-# Getting Started with mmy Sample React App
+# Getting Started with My Sample React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
+
+And in this project i have used [bootstrap v5.1.0](https://github.com/twbs)
+
+.
+
 
 ## Available Scripts
 
